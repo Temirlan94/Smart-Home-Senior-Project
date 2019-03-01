@@ -1,1 +1,1 @@
-# senior
+# Smart Home Senior Project
